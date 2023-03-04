@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: "Poiret One";
+    color: red;
+    font-size: 36pt;
+    text-shadow: red 0 0 5px;
+}
+
+p {
+    font-family: "Poiret One";
+    color: white;
+    font-size: 16pt;
+    text-shadow: white 0 0 5px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.text-shadow {
+    text-shadow: 5px 5px 5px #333;
+    color: #DF0101;
+}
